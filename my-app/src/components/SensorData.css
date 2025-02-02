@@ -1,0 +1,14 @@
+/* components/SensorData.css */
+.sensor-data {
+    padding: 20px;
+  }
+  
+  .sensor-data h1 {
+    font-size: 28px;
+  }
+  
+  .data-display p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  

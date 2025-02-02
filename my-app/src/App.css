@@ -1,0 +1,14 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* src/App.css */
+.main-content {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: #f9fafc;
+  min-height: 80vh;
+}

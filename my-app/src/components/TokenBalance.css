@@ -1,0 +1,14 @@
+/* components/TokenBalance.css */
+.token-balance {
+    padding: 20px;
+  }
+  
+  .token-balance h1 {
+    font-size: 28px;
+  }
+  
+  .data-display p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,29 @@
+/* components/Settings.css */
+.settings {
+    padding: 20px;
+  }
+  
+  .settings h1 {
+    font-size: 28px;
+  }
+  
+  .settings form {
+    margin-top: 20px;
+  }
+  
+  .settings label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .settings input {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  .settings button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  
